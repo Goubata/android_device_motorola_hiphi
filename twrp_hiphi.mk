@@ -16,7 +16,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/motorola/hiphi/device.mk)
 
 PRODUCT_DEVICE := hiphi
-PRODUCT_NAME := omni_hiphi
+PRODUCT_NAME := twrp_hiphi
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := motorola edge 30 pro
 PRODUCT_MANUFACTURER := motorola
