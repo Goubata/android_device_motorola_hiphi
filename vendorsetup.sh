@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo twrp_hiphi-user
-add_lunch_combo twrp_hiphi-userdebug
-add_lunch_combo twrp_hiphi-eng
+add_lunch_combo omni_hiphi-user
+add_lunch_combo omni_hiphi-userdebug
+add_lunch_combo omni_hiphi-eng
